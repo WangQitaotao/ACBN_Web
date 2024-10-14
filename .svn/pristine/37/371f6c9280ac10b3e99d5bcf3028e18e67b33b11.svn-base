@@ -1,0 +1,36 @@
+2024-06-24 10:31:37 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.114)
+Stacktrace:
+	GetHandleVerifier [0x00370ED3+27667]
+	(No symbol) [0x00306BD4]
+	(No symbol) [0x00201AFF]
+	(No symbol) [0x001DE483]
+	(No symbol) [0x0026A00F]
+	(No symbol) [0x0027C376]
+	(No symbol) [0x002636C6]
+	(No symbol) [0x002374D1]
+	(No symbol) [0x0023804D]
+	GetHandleVerifier [0x00623D43+2857603]
+	GetHandleVerifier [0x00677EAD+3202029]
+	GetHandleVerifier [0x003F46D4+566292]
+	GetHandleVerifier [0x003FB8CC+595468]
+	(No symbol) [0x0030F9C4]
+	(No symbol) [0x0030C6D8]
+	(No symbol) [0x0030C877]
+	(No symbol) [0x002FE76E]
+	BaseThreadInitThunk [0x76D87BA9+25]
+	RtlInitializeExceptionChain [0x77BABD2B+107]
+	RtlClearBits [0x77BABCAF+191]
+
+2024-06-24 10:31:37 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-24 14:20:22 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-24 14:20:26 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-24 14:26:35 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-24 15:18:40 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-24 15:19:00 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-24 15:19:21 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-06-24 15:19:41 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 5 次重试
+2024-06-24 15:20:02 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 6 次重试
+2024-06-24 15:20:23 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 7 次重试
+2024-06-24 17:12:36 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭

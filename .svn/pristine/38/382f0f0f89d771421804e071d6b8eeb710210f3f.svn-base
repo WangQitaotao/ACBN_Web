@@ -1,0 +1,7 @@
+2024-09-09 11:42:44 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-09-09 11:42:50 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-09-09 11:42:50 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-09-09 13:52:23 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-09-09 14:37:35 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-09-09 15:00:28 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-09-09 15:02:06 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试

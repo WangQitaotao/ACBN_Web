@@ -1,0 +1,35 @@
+# -*- encoding: utf-8 -*-
+"""
+@时间:   2021/11/7 20:52
+@作者:   王齐涛
+@文件:   all_paths.py
+这里是获取所有文件的目录路径，调用的时候直接调用变量就好了
+"""
+import os
+
+# 封装变量路径
+CURRENT = os.path.abspath(__file__)   # 当前文件绝对路径
+BASE_DIR = os.path.dirname(os.path.dirname(__file__)).replace("/", r"\\")  # 当前所有目录的上级(当前路径的上上级)
+
+# 相关路径
+CONFIG_PATH = os.path.join(BASE_DIR, "config")
+DATA_PATH = os.path.join(BASE_DIR, "data")+os.sep
+LOGS_PATH = os.path.join(BASE_DIR, "logs")
+PTHOTOS_PATH = os.path.join(BASE_DIR, "photos")
+
+
+ACBN_DATA_EXCEL = DATA_PATH+'ACBN.xlsx'
+ACBN_TESTCASE = os.path.join(BASE_DIR, "testcase_py")
+ACBN_ADD_LOCAL = os.path.join(ACBN_TESTCASE, "test_add_local.py")
+ACBN_ADD_SOURCE = os.path.join(ACBN_TESTCASE, "test_add_source.py")
+ACBN_ADD_TASK = os.path.join(ACBN_TESTCASE, "test_add_task.py")
+ACBN_ADD_UPLOAD = os.path.join(ACBN_TESTCASE, "test_increment_backup.py")
+print(ACBN_ADD_LOCAL)
+print(CURRENT)
+
+
+
+
+
+
+

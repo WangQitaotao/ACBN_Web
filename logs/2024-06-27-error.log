@@ -1,0 +1,323 @@
+2024-06-27 14:24:12 - logger_handler.py - [line:151] - ERROR - [日志信息]: Error occurred while checking element ('xpath', "//div[@class='nav-wrapper']//button[3]") clickable status: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='nav-wrapper']//button[3]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0100C1C3+27395]
+	(No symbol) [0x00FA3DC4]
+	(No symbol) [0x00EA1B7F]
+	(No symbol) [0x00EE2C65]
+	(No symbol) [0x00EE2D3B]
+	(No symbol) [0x00F1EC82]
+	(No symbol) [0x00F039E4]
+	(No symbol) [0x00F1CB24]
+	(No symbol) [0x00F03736]
+	(No symbol) [0x00ED7541]
+	(No symbol) [0x00ED80BD]
+	GetHandleVerifier [0x012C3A93+2876371]
+	GetHandleVerifier [0x01317F5D+3221661]
+	GetHandleVerifier [0x0108D634+556916]
+	GetHandleVerifier [0x0109474C+585868]
+	(No symbol) [0x00FACE04]
+	(No symbol) [0x00FA9818]
+	(No symbol) [0x00FA99B7]
+	(No symbol) [0x00F9BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 14:24:42 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 14:39:58 - logger_handler.py - [line:151] - ERROR - [日志信息]: Error occurred while checking element ('xpath', "//div[@class='nav-wrapper']//button[3]") clickable status: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='nav-wrapper']//button[3]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00D4C1C3+27395]
+	(No symbol) [0x00CE3DC4]
+	(No symbol) [0x00BE1B7F]
+	(No symbol) [0x00C22C65]
+	(No symbol) [0x00C22D3B]
+	(No symbol) [0x00C5EC82]
+	(No symbol) [0x00C439E4]
+	(No symbol) [0x00C5CB24]
+	(No symbol) [0x00C43736]
+	(No symbol) [0x00C17541]
+	(No symbol) [0x00C180BD]
+	GetHandleVerifier [0x01003A93+2876371]
+	GetHandleVerifier [0x01057F5D+3221661]
+	GetHandleVerifier [0x00DCD634+556916]
+	GetHandleVerifier [0x00DD474C+585868]
+	(No symbol) [0x00CECE04]
+	(No symbol) [0x00CE9818]
+	(No symbol) [0x00CE99B7]
+	(No symbol) [0x00CDBF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 14:40:28 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 14:40:31 - logger_handler.py - [line:151] - ERROR - [日志信息]: Error occurred while checking element ('xpath', '//div[@class="vxe-modal--wrapper type--alert status--error is--animat lock--view is--mask is--visible is--active"]//div[@class="vxe-modal--content"]') clickable status: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="vxe-modal--wrapper type--alert status--error is--animat lock--view is--mask is--visible is--active"]//div[@class="vxe-modal--content"]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00D4C1C3+27395]
+	(No symbol) [0x00CE3DC4]
+	(No symbol) [0x00BE1B7F]
+	(No symbol) [0x00C22C65]
+	(No symbol) [0x00C22D3B]
+	(No symbol) [0x00C5EC82]
+	(No symbol) [0x00C439E4]
+	(No symbol) [0x00C5CB24]
+	(No symbol) [0x00C43736]
+	(No symbol) [0x00C17541]
+	(No symbol) [0x00C180BD]
+	GetHandleVerifier [0x01003A93+2876371]
+	GetHandleVerifier [0x01057F5D+3221661]
+	GetHandleVerifier [0x00DCD634+556916]
+	GetHandleVerifier [0x00DD474C+585868]
+	(No symbol) [0x00CECE04]
+	(No symbol) [0x00CE9818]
+	(No symbol) [0x00CE99B7]
+	(No symbol) [0x00CDBF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 14:46:15 - logger_handler.py - [line:151] - ERROR - [日志信息]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='nav-wrapper']//button[3]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0032C1C3+27395]
+	(No symbol) [0x002C3DC4]
+	(No symbol) [0x001C1B7F]
+	(No symbol) [0x00202C65]
+	(No symbol) [0x00202D3B]
+	(No symbol) [0x0023EC82]
+	(No symbol) [0x002239E4]
+	(No symbol) [0x0023CB24]
+	(No symbol) [0x00223736]
+	(No symbol) [0x001F7541]
+	(No symbol) [0x001F80BD]
+	GetHandleVerifier [0x005E3A93+2876371]
+	GetHandleVerifier [0x00637F5D+3221661]
+	GetHandleVerifier [0x003AD634+556916]
+	GetHandleVerifier [0x003B474C+585868]
+	(No symbol) [0x002CCE04]
+	(No symbol) [0x002C9818]
+	(No symbol) [0x002C99B7]
+	(No symbol) [0x002BBF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 14:46:45 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 14:48:00 - logger_handler.py - [line:151] - ERROR - [日志信息]: 目标位置存在
+2024-06-27 15:31:47 - logger_handler.py - [line:151] - ERROR - [日志信息]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='nav-wrapper']//button[3]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x009EC1C3+27395]
+	(No symbol) [0x00983DC4]
+	(No symbol) [0x00881B7F]
+	(No symbol) [0x008C2C65]
+	(No symbol) [0x008C2D3B]
+	(No symbol) [0x008FEC82]
+	(No symbol) [0x008E39E4]
+	(No symbol) [0x008FCB24]
+	(No symbol) [0x008E3736]
+	(No symbol) [0x008B7541]
+	(No symbol) [0x008B80BD]
+	GetHandleVerifier [0x00CA3A93+2876371]
+	GetHandleVerifier [0x00CF7F5D+3221661]
+	GetHandleVerifier [0x00A6D634+556916]
+	GetHandleVerifier [0x00A7474C+585868]
+	(No symbol) [0x0098CE04]
+	(No symbol) [0x00989818]
+	(No symbol) [0x009899B7]
+	(No symbol) [0x0097BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 15:32:17 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 15:32:38 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-27 15:32:59 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-06-27 15:34:11 - logger_handler.py - [line:151] - ERROR - [日志信息]: 目标位置 测试数据 (T:) 存在
+2024-06-27 15:34:33 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 15:34:54 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-27 15:35:01 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 1
+2024-06-27 15:35:13 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 2
+2024-06-27 15:35:26 - logger_handler.py - [line:151] - ERROR - [日志信息]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="ant-form-explain"]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x009EC1C3+27395]
+	(No symbol) [0x00983DC4]
+	(No symbol) [0x00881B7F]
+	(No symbol) [0x008C2C65]
+	(No symbol) [0x008C2D3B]
+	(No symbol) [0x008FEC82]
+	(No symbol) [0x008E39E4]
+	(No symbol) [0x008FCB24]
+	(No symbol) [0x008E3736]
+	(No symbol) [0x008B7541]
+	(No symbol) [0x008B80BD]
+	GetHandleVerifier [0x00CA3A93+2876371]
+	GetHandleVerifier [0x00CF7F5D+3221661]
+	GetHandleVerifier [0x00A6D634+556916]
+	GetHandleVerifier [0x00A7474C+585868]
+	(No symbol) [0x0098CE04]
+	(No symbol) [0x00989818]
+	(No symbol) [0x009899B7]
+	(No symbol) [0x0097BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 15:35:47 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 15:36:07 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-27 15:36:28 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-06-27 15:36:49 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 5 次重试
+2024-06-27 15:37:07 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-27 15:38:28 - logger_handler.py - [line:151] - ERROR - [日志信息]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='nav-wrapper']//button[3]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x011AC1C3+27395]
+	(No symbol) [0x01143DC4]
+	(No symbol) [0x01041B7F]
+	(No symbol) [0x01082C65]
+	(No symbol) [0x01082D3B]
+	(No symbol) [0x010BEC82]
+	(No symbol) [0x010A39E4]
+	(No symbol) [0x010BCB24]
+	(No symbol) [0x010A3736]
+	(No symbol) [0x01077541]
+	(No symbol) [0x010780BD]
+	GetHandleVerifier [0x01463A93+2876371]
+	GetHandleVerifier [0x014B7F5D+3221661]
+	GetHandleVerifier [0x0122D634+556916]
+	GetHandleVerifier [0x0123474C+585868]
+	(No symbol) [0x0114CE04]
+	(No symbol) [0x01149818]
+	(No symbol) [0x011499B7]
+	(No symbol) [0x0113BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 15:38:58 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 15:40:05 - logger_handler.py - [line:151] - ERROR - [日志信息]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='nav-wrapper']//button[3]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x011FC1C3+27395]
+	(No symbol) [0x01193DC4]
+	(No symbol) [0x01091B7F]
+	(No symbol) [0x010D2C65]
+	(No symbol) [0x010D2D3B]
+	(No symbol) [0x0110EC82]
+	(No symbol) [0x010F39E4]
+	(No symbol) [0x0110CB24]
+	(No symbol) [0x010F3736]
+	(No symbol) [0x010C7541]
+	(No symbol) [0x010C80BD]
+	GetHandleVerifier [0x014B3A93+2876371]
+	GetHandleVerifier [0x01507F5D+3221661]
+	GetHandleVerifier [0x0127D634+556916]
+	GetHandleVerifier [0x0128474C+585868]
+	(No symbol) [0x0119CE04]
+	(No symbol) [0x01199818]
+	(No symbol) [0x011999B7]
+	(No symbol) [0x0118BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 15:40:35 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 15:40:56 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-27 15:41:17 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-06-27 15:41:37 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 5 次重试
+2024-06-27 15:41:58 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 6 次重试
+2024-06-27 15:42:04 - logger_handler.py - [line:151] - ERROR - [日志信息]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="vxe-modal--wrapper type--alert status--error is--animat lock--view is--mask is--visible is--active"]//div[@class="vxe-modal--content"]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x011FC1C3+27395]
+	(No symbol) [0x01193DC4]
+	(No symbol) [0x01091B7F]
+	(No symbol) [0x010D2C65]
+	(No symbol) [0x010D2D3B]
+	(No symbol) [0x0110EC82]
+	(No symbol) [0x010F39E4]
+	(No symbol) [0x0110CB24]
+	(No symbol) [0x010F3736]
+	(No symbol) [0x010C7541]
+	(No symbol) [0x010C80BD]
+	GetHandleVerifier [0x014B3A93+2876371]
+	GetHandleVerifier [0x01507F5D+3221661]
+	GetHandleVerifier [0x0127D634+556916]
+	GetHandleVerifier [0x0128474C+585868]
+	(No symbol) [0x0119CE04]
+	(No symbol) [0x01199818]
+	(No symbol) [0x011999B7]
+	(No symbol) [0x0118BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 15:42:10 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 1
+2024-06-27 15:42:21 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 2
+2024-06-27 15:42:32 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 3
+2024-06-27 15:42:43 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 4
+2024-06-27 15:42:55 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 5
+2024-06-27 15:43:06 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 6
+2024-06-27 15:43:17 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 7
+2024-06-27 15:48:54 - logger_handler.py - [line:151] - ERROR - [日志信息]: 发送错误: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F1C1C3+27395]
+	(No symbol) [0x00EB3DC4]
+	(No symbol) [0x00DB1B7F]
+	(No symbol) [0x00DF2C65]
+	(No symbol) [0x00DF2D3B]
+	(No symbol) [0x00E2EC82]
+	(No symbol) [0x00E139E4]
+	(No symbol) [0x00E2CB24]
+	(No symbol) [0x00E13736]
+	(No symbol) [0x00DE7541]
+	(No symbol) [0x00DE80BD]
+	GetHandleVerifier [0x011D3A93+2876371]
+	GetHandleVerifier [0x01227F5D+3221661]
+	GetHandleVerifier [0x00F9D634+556916]
+	GetHandleVerifier [0x00FA474C+585868]
+	(No symbol) [0x00EBCE04]
+	(No symbol) [0x00EB9818]
+	(No symbol) [0x00EB99B7]
+	(No symbol) [0x00EABF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 15:49:24 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 15:49:39 - logger_handler.py - [line:151] - ERROR - [日志信息]: 目标位置 测试数据 (T:) 存在
+2024-06-27 15:50:01 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 15:50:22 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-27 15:50:42 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-06-27 15:51:02 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 5 次重试
+2024-06-27 15:52:18 - logger_handler.py - [line:151] - ERROR - [日志信息]: 发送错误: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0038C1C3+27395]
+	(No symbol) [0x00323DC4]
+	(No symbol) [0x00221B7F]
+	(No symbol) [0x00262C65]
+	(No symbol) [0x00262D3B]
+	(No symbol) [0x0029EC82]
+	(No symbol) [0x002839E4]
+	(No symbol) [0x0029CB24]
+	(No symbol) [0x00283736]
+	(No symbol) [0x00257541]
+	(No symbol) [0x002580BD]
+	GetHandleVerifier [0x00643A93+2876371]
+	GetHandleVerifier [0x00697F5D+3221661]
+	GetHandleVerifier [0x0040D634+556916]
+	GetHandleVerifier [0x0041474C+585868]
+	(No symbol) [0x0032CE04]
+	(No symbol) [0x00329818]
+	(No symbol) [0x003299B7]
+	(No symbol) [0x0031BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-27 15:52:48 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-27 15:53:09 - logger_handler.py - [line:151] - ERROR - [日志信息]: 目标位置 测试数据 (T:) 存在
+2024-06-27 15:53:13 - logger_handler.py - [line:151] - ERROR - [日志信息]: 网络位置 \\192.168.4.230\共享文件夹\------------项目------------\性能测试数据 存在

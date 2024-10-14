@@ -1,0 +1,75 @@
+2024-06-21 09:39:39 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 09:58:17 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 10:28:20 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 11:29:52 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 16:16:57 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 16:18:56 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 16:19:13 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 16:28:34 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 16:38:59 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 17:26:10 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-21 17:26:24 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 17:31:51 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-21 17:32:11 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-21 17:32:14 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-21 17:33:58 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-21 17:34:18 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-21 17:34:38 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-06-21 17:34:59 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 5 次重试
+2024-06-21 17:35:19 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 6 次重试
+2024-06-21 17:35:39 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 7 次重试
+2024-06-21 17:39:40 - logger_handler.py - [line:151] - ERROR - [日志信息]: Error occurred while checking element ('xpath', '//div[@class="vxe-table--empty-placeholder"]//p/a') clickable status: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=126.0.6478.114)
+Stacktrace:
+	GetHandleVerifier [0x00E70ED3+27667]
+	(No symbol) [0x00E06BD4]
+	(No symbol) [0x00D01AFF]
+	(No symbol) [0x00D42441]
+	(No symbol) [0x00D42CDB]
+	(No symbol) [0x00D7EC22]
+	(No symbol) [0x00D63974]
+	(No symbol) [0x00D7CAC7]
+	(No symbol) [0x00D636C6]
+	(No symbol) [0x00D374D1]
+	(No symbol) [0x00D3804D]
+	GetHandleVerifier [0x01123D43+2857603]
+	GetHandleVerifier [0x01177EAD+3202029]
+	GetHandleVerifier [0x00EF46D4+566292]
+	GetHandleVerifier [0x00EFB8CC+595468]
+	(No symbol) [0x00E0F9C4]
+	(No symbol) [0x00E0C6D8]
+	(No symbol) [0x00E0C877]
+	(No symbol) [0x00DFE76E]
+	BaseThreadInitThunk [0x75BC7BA9+25]
+	RtlInitializeExceptionChain [0x773FBD2B+107]
+	RtlClearBits [0x773FBCAF+191]
+
+2024-06-21 17:41:46 - logger_handler.py - [line:151] - ERROR - [日志信息]: 任务执行失败
+2024-06-21 17:47:38 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-21 17:47:46 - logger_handler.py - [line:151] - ERROR - [日志信息]: Error occurred while checking element ('xpath', '//div[@class="vxe-table--empty-placeholder"]//p/a') clickable status: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=126.0.6478.114)
+Stacktrace:
+	GetHandleVerifier [0x00FD0ED3+27667]
+	(No symbol) [0x00F66BD4]
+	(No symbol) [0x00E61AFF]
+	(No symbol) [0x00EA2441]
+	(No symbol) [0x00EA2CDB]
+	(No symbol) [0x00EDEC22]
+	(No symbol) [0x00EC3974]
+	(No symbol) [0x00EDCAC7]
+	(No symbol) [0x00EC36C6]
+	(No symbol) [0x00E974D1]
+	(No symbol) [0x00E9804D]
+	GetHandleVerifier [0x01283D43+2857603]
+	GetHandleVerifier [0x012D7EAD+3202029]
+	GetHandleVerifier [0x010546D4+566292]
+	GetHandleVerifier [0x0105B8CC+595468]
+	(No symbol) [0x00F6F9C4]
+	(No symbol) [0x00F6C6D8]
+	(No symbol) [0x00F6C877]
+	(No symbol) [0x00F5E76E]
+	BaseThreadInitThunk [0x75BC7BA9+25]
+	RtlInitializeExceptionChain [0x773FBD2B+107]
+	RtlClearBits [0x773FBCAF+191]
+
+2024-06-21 17:47:48 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 1

@@ -1,0 +1,331 @@
+2024-08-22 10:12:37 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 1
+2024-08-22 10:12:48 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 2
+2024-08-22 10:13:00 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 3
+2024-08-22 10:13:11 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 4
+2024-08-22 10:13:22 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 5
+2024-08-22 10:13:33 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 6
+2024-08-22 10:13:44 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 7
+2024-08-22 10:13:55 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 8
+2024-08-22 10:14:07 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:14:08 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:14:10 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:15:12 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:15:14 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:15:16 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:15:36 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-08-22 10:15:56 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-08-22 10:16:16 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-08-22 10:16:36 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 5 次重试
+2024-08-22 10:16:57 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 6 次重试
+2024-08-22 10:17:17 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 7 次重试
+2024-08-22 10:17:37 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 8 次重试
+2024-08-22 10:17:38 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-08-22 10:17:38 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-08-22 10:19:08 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 1
+2024-08-22 10:19:19 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 2
+2024-08-22 10:19:30 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 3
+2024-08-22 10:19:41 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 4
+2024-08-22 10:19:52 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 5
+2024-08-22 10:20:03 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 6
+2024-08-22 10:20:14 - logger_handler.py - [line:151] - ERROR - [日志信息]: 点击事件被拦截，尝试重试操作次数 7
+2024-08-22 10:20:26 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:20:28 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:20:29 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: javascript error: {"status":12,"value":"Element is not currently interactable and may not be manipulated"}
+  (Session info: MicrosoftEdge=127.0.2651.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF7328F5A5F]
+	(No symbol) [0x00007FF7328F7901]
+	(No symbol) [0x00007FF7328F79A0]
+	(No symbol) [0x00007FF73292E767]
+	(No symbol) [0x00007FF732955F4A]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73292C1FD]
+	(No symbol) [0x00007FF732956230]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:35:41 - logger_handler.py - [line:151] - ERROR - [日志信息]: 发送错误: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF732B31492+11666]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD2139+271945]
+	(No symbol) [0x00007FF7328EFE7E]
+	(No symbol) [0x00007FF73293698A]
+	(No symbol) [0x00007FF732936A11]
+	(No symbol) [0x00007FF732972107]
+	(No symbol) [0x00007FF732955F8F]
+	(No symbol) [0x00007FF73292C32D]
+	(No symbol) [0x00007FF73296FB66]
+	(No symbol) [0x00007FF732955BB3]
+	(No symbol) [0x00007FF73292B83C]
+	(No symbol) [0x00007FF73292AD1D]
+	(No symbol) [0x00007FF73292B401]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAFF64+890196]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A67BAF+55647]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF732A5A787+1335]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF732CAECBD+885421]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD9D91+303777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD6154+288356]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732AD628B+288667]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF732ACE190+255648]
+	BaseThreadInitThunk [0x00007FFA667F257D+29]
+	RtlUserThreadStart [0x00007FFA679CAA58+40]
+
+2024-08-22 10:36:02 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-08-22 10:36:22 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试

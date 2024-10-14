@@ -1,0 +1,195 @@
+2024-06-25 14:58:08 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 14:58:08 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 14:58:08 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 14:58:08 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 14:58:08 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='nav-wrapper']//button[3]")
+2024-06-25 14:58:08 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //a[@class='small-link']
+2024-06-25 14:58:10 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@class='small-link']")
+2024-06-25 14:58:10 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //p[@class='a-logo']
+2024-06-25 14:58:11 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  username
+2024-06-25 14:58:11 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-25 14:58:12 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:13:12 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:13:12 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:13:12 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:13:12 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:13:12 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='nav-wrapper']//button[3]")
+2024-06-25 15:13:12 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //a[@class='small-link']
+2024-06-25 15:13:14 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@class='small-link']")
+2024-06-25 15:13:14 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //p[@class='a-logo']
+2024-06-25 15:13:15 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  username
+2024-06-25 15:13:16 - logger_handler.py - [line:146] - DEBUG - [日志信息]: --->  输入的值：admin
+2024-06-25 15:13:17 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  password
+2024-06-25 15:13:18 - logger_handler.py - [line:151] - ERROR - [日志信息]: send_keys事件 报错异常 --->: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.115)
+Stacktrace:
+	GetHandleVerifier [0x00CDC1C3+27395]
+	(No symbol) [0x00C73DC4]
+	(No symbol) [0x00B71B7F]
+	(No symbol) [0x00B4E483]
+	(No symbol) [0x00BDA06F]
+	(No symbol) [0x00BEC3D6]
+	(No symbol) [0x00BD3736]
+	(No symbol) [0x00BA7541]
+	(No symbol) [0x00BA80BD]
+	GetHandleVerifier [0x00F93A93+2876371]
+	GetHandleVerifier [0x00FE7F5D+3221661]
+	GetHandleVerifier [0x00D5D634+556916]
+	GetHandleVerifier [0x00D6474C+585868]
+	(No symbol) [0x00C7CE04]
+	(No symbol) [0x00C79818]
+	(No symbol) [0x00C799B7]
+	(No symbol) [0x00C6BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-25 15:13:18 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //button[@type='submit']
+2024-06-25 15:13:18 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-25 15:13:19 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:14:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:14:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:14:04 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:14:04 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:14:24 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-25 15:14:24 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:14:41 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-25 15:14:41 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:17:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:17:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:17:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:17:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:17:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//div[@class='nav-wrapper']//button[3]")
+2024-06-25 15:17:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //a[@class='small-link']
+2024-06-25 15:17:04 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//a[@class='small-link']")
+2024-06-25 15:17:04 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //p[@class='a-logo']
+2024-06-25 15:17:05 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  username
+2024-06-25 15:17:06 - logger_handler.py - [line:146] - DEBUG - [日志信息]: --->  输入的值：admin
+2024-06-25 15:17:07 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  password
+2024-06-25 15:17:09 - logger_handler.py - [line:146] - DEBUG - [日志信息]: --->  输入的值：admin
+2024-06-25 15:17:09 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //button[@type='submit']
+2024-06-25 15:17:09 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//button[@type='submit']")
+2024-06-25 15:17:14 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //ul[@role='menu']//li[4]//div[@aria-haspopup='true']
+2024-06-25 15:17:17 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//ul[@role='menu']//li[4]//div[@aria-haspopup='true']")
+2024-06-25 15:17:17 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //ul[@role="menu"]//li[4]//div[@aria-haspopup="true"]/../ul/li[1]
+2024-06-25 15:17:18 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', '//ul[@role="menu"]//li[4]//div[@aria-haspopup="true"]/../ul/li[1]')
+2024-06-25 15:17:18 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //button[@class="ant-btn ant-btn-primary"]
+2024-06-25 15:17:18 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', '//button[@class="ant-btn ant-btn-primary"]')
+2024-06-25 15:17:18 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //span[contains(text(),"测试数据 (T:)")]
+2024-06-25 15:17:19 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', '//span[contains(text(),"测试数据 (T:)")]')
+2024-06-25 15:17:19 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class="subottom"]//button[@class="ant-btn ant-btn-primary"]
+2024-06-25 15:17:19 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', '//div[@class="subottom"]//button[@class="ant-btn ant-btn-primary"]')
+2024-06-25 15:32:51 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:32:51 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:32:53 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:32:53 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:33:14 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-25 15:33:14 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:33:34 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-25 15:33:34 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:33:47 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-25 15:33:47 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:33:59 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:33:59 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:34:00 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:34:00 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:34:20 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-25 15:34:20 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:34:41 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-25 15:34:41 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:35:01 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-06-25 15:35:01 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:35:22 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 5 次重试
+2024-06-25 15:35:22 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:35:42 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 6 次重试
+2024-06-25 15:35:42 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:36:02 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 7 次重试
+2024-06-25 15:36:02 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:36:23 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 8 次重试
+2024-06-25 15:36:23 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:36:43 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 9 次重试
+2024-06-25 15:36:43 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:37:03 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 10 次重试
+2024-06-25 15:37:03 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:37:24 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 11 次重试
+2024-06-25 15:37:24 - logger_handler.py - [line:151] - ERROR - [日志信息]: 重试 10 次后仍未找到元素
+2024-06-25 15:37:24 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:37:24 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:37:24 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:37:24 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:37:44 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 2 次重试
+2024-06-25 15:37:44 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:38:05 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 3 次重试
+2024-06-25 15:38:05 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:38:25 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 4 次重试
+2024-06-25 15:38:25 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:38:45 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 5 次重试
+2024-06-25 15:38:45 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:39:06 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  元素查找超时,正在进行第 6 次重试
+2024-06-25 15:39:06 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:39:07 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-25 15:39:07 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:39:28 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:39:28 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:39:29 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:39:29 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class='nav-wrapper']//button[3]
+2024-06-25 15:39:39 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-25 15:39:39 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:40:17 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:40:17 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:40:19 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:40:20 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  username
+2024-06-25 15:40:21 - logger_handler.py - [line:146] - DEBUG - [日志信息]: --->  输入的值：admin
+2024-06-25 15:40:22 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  password
+2024-06-25 15:40:23 - logger_handler.py - [line:146] - DEBUG - [日志信息]: --->  输入的值：admin
+2024-06-25 15:40:23 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //button[@type='submit']
+2024-06-25 15:40:23 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//button[@type='submit']")
+2024-06-25 15:40:28 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //ul[@role='menu']//li[4]//div[@aria-haspopup='true']
+2024-06-25 15:40:32 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//ul[@role='menu']//li[4]//div[@aria-haspopup='true']")
+2024-06-25 15:40:32 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //ul[@role="menu"]//li[4]//div[@aria-haspopup="true"]/../ul/li[1]
+2024-06-25 15:40:33 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', '//ul[@role="menu"]//li[4]//div[@aria-haspopup="true"]/../ul/li[1]')
+2024-06-25 15:40:33 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //button[@class="ant-btn ant-btn-primary"]
+2024-06-25 15:40:33 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', '//button[@class="ant-btn ant-btn-primary"]')
+2024-06-25 15:40:33 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //span[contains(text(),"测试数据 (T:)")]
+2024-06-25 15:40:35 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', '//span[contains(text(),"测试数据 (T:)")]')
+2024-06-25 15:40:35 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //div[@class="subottom"]//button[@class="ant-btn ant-btn-primary"]
+2024-06-25 15:40:35 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', '//div[@class="subottom"]//button[@class="ant-btn ant-btn-primary"]')
+2024-06-25 15:40:39 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //td[2]//span[contains(text(),"T:")]
+2024-06-25 15:40:39 - logger_handler.py - [line:151] - ERROR - [日志信息]: find事件  -->  浏览器窗口已关闭
+2024-06-25 15:40:39 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试结束----------
+2024-06-25 15:42:52 - logger_handler.py - [line:146] - DEBUG - [日志信息]: ----------测试开始----------
+2024-06-25 15:42:52 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 浏览器最大化
+2024-06-25 15:42:53 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 读取url：https://localhost:9072/#/user/login?redirect=%2Foverview%2Fdashboard
+2024-06-25 15:42:53 - logger_handler.py - [line:151] - ERROR - [日志信息]: Error occurred while checking element ('xpath', "//div[@class='nav-wrapper']//button[3]") clickable status: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='nav-wrapper']//button[3]"}
+  (Session info: chrome=126.0.6478.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00F8C1C3+27395]
+	(No symbol) [0x00F23DC4]
+	(No symbol) [0x00E21B7F]
+	(No symbol) [0x00E62C65]
+	(No symbol) [0x00E62D3B]
+	(No symbol) [0x00E9EC82]
+	(No symbol) [0x00E839E4]
+	(No symbol) [0x00E9CB24]
+	(No symbol) [0x00E83736]
+	(No symbol) [0x00E57541]
+	(No symbol) [0x00E580BD]
+	GetHandleVerifier [0x01243A93+2876371]
+	GetHandleVerifier [0x01297F5D+3221661]
+	GetHandleVerifier [0x0100D634+556916]
+	GetHandleVerifier [0x0101474C+585868]
+	(No symbol) [0x00F2CE04]
+	(No symbol) [0x00F29818]
+	(No symbol) [0x00F299B7]
+	(No symbol) [0x00F1BF0E]
+	BaseThreadInitThunk [0x75BD7BA9+25]
+	RtlInitializeExceptionChain [0x7749BD2B+107]
+	RtlClearBits [0x7749BCAF+191]
+
+2024-06-25 15:42:54 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  username
+2024-06-25 15:42:55 - logger_handler.py - [line:146] - DEBUG - [日志信息]: --->  输入的值：admin
+2024-06-25 15:42:56 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  id, 元素值->  password
+2024-06-25 15:42:58 - logger_handler.py - [line:146] - DEBUG - [日志信息]: --->  输入的值：admin
+2024-06-25 15:42:58 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 正在定位元素信息：定位方式->  xpath, 元素值->  //button[@type='submit']
+2024-06-25 15:42:58 - logger_handler.py - [line:146] - DEBUG - [日志信息]: 点击元素：('xpath', "//button[@type='submit']")

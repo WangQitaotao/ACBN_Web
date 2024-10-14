@@ -1,0 +1,20 @@
+{
+  "testcase_py/add_task.py::TestAddGoods::test_add_task": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[10-args8]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[11-args9]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[12-args10]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[13-args11]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[14-args12]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[15-args13]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[16-args14]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[17-args15]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[18-args16]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[19-args17]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[20-args18]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[21-args19]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[22-args20]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[23-args21]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[24-args22]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[8-args6]": true,
+  "testcase_py/test_add_source.py::TestAddSource::test_add_source[9-args7]": true
+}
